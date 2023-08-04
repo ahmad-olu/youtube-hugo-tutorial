@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Ahmad&#39;s Blog</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Ahmad&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Aug 2023 20:47:51 +0100</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>/posts/first/</link>
+      <pubDate>Fri, 04 Aug 2023 20:47:51 +0100</pubDate>
+      
+      <guid>/posts/first/</guid>
+      <description>Introduction First first second third var x = 12 my name is john</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>/posts/second/</link>
+      <pubDate>Fri, 04 Aug 2023 20:47:51 +0100</pubDate>
+      
+      <guid>/posts/second/</guid>
+      <description>Introduction Second first second third var x = 12 my name is john</description>
+    </item>
+    
+  </channel>
+</rss>

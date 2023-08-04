@@ -1,0 +1,23 @@
+baseURL: ''
+languageCode: 'en-us'
+title: "Ahmad's Blog"
+theme: PaperMod
+
+socialIcons:
+  - name: twitter
+    url: "https://twitter.com/"
+  - name: stackoverflow
+    url: "https://stackoverflow.com"
+  - name: github
+    url: "https://github.com/"
+
+menu:
+  main:
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
