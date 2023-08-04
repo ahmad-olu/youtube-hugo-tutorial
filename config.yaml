@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: 'https://chimerical-semifreddo-e7c542.netlify.app/'
 languageCode: 'en-us'
 title: "Ahmad's Blog"
 theme: PaperMod
